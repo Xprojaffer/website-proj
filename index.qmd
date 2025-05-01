@@ -1,11 +1,11 @@
 ---
-title: "Hi, I'm [Your Name Here]"
+title: "Hi, I'm Jaffer"
 ---
 
 
 ::: {.columns}
 ::: {.column width="30%"}
-![](https://placehold.co/530x530?text=images/headshot.jpg){width=100% style="border-radius: 50%;"}
+![](https://placehold.co/530x530?text="C:\Users\Xproj\OneDrive\Pictures\jaffer.jpg"){width=100% style="border-radius: 50%;"} 
 :::
 ::: {.column width="70%" style="padding-left: 3rem;"}
 I'm a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights.

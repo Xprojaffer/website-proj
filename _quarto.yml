@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "YOUR NAME"
+  title: "Jaffer Khadour"
   navbar:
     left:
       - text: "Home"
