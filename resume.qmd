@@ -12,44 +12,56 @@ rmarkdown::render(
 )
 ```
 
-You can view a PDF version of my résumé [here](resume/Resume.pdf).
+You can view a PDF version of my résumé [here](resume/Jaffer_Khadour_One_page_Resume.pdf).
 
 # Professional Summary
 
-Results-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.
+Motivated Marketing Management student with hands-on experience in B2B sales, product authentication, and team operations. Currently a Sales Intern at Uline, developing CRM, outreach, and customer engagement strategies using Salesforce. Former Sneaker Authenticator at GOAT, known for precision, fraud detection, and operational efficiency. Recognized for strong communication, leadership, and a passion for brand storytelling and customer-centric marketing.
 
 # Technical Skills
 
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools
+-   **Programming Languages:** R, Python, SQL, C++\
+-   **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Google Analytics, Tag Manager, Tableau
 
 # Education
 
-| Degree                             | Year                          | College / Department                 | Institution         |
-| ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
-| [Your Degree]                     | [Start – Graduation Year]     | [Your College or Department]        | [Your University]   |
-| [Previous Degree or Certification] | [Start – End Year]            | [Your College or Department]        | [Your University]   |
+| Degree | Year | College / Department | Institution |
+|------------------|------------------|-------------------|------------------|
+| Bachelor's of Science, Marketing Management | 2024 - Expected Graduation May 2026 | Singelyn Graduate School of Business | Cal Poly Pomona |
+| Associate's of science, Business Administration | March 2021- May 2023 | College of Business Administration | Chaffey College, Rancho Cucamonga |
 
 # Work Experience
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+### Junior Authentication Specialist, Goat Group
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Responsibility or accomplishment #3]  
-- [Technical tools, collaboration, or outcomes]  
-- [Any metrics, impacts, or stakeholder involvement]
+*March 2022 - October 2024*
 
----
+-   Authenticated high-value sneakers with 100% accuracy using proprietary inspection protocol
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+-   Detected counterfeit items through detailed visual inspection and materials verification
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Team leadership, training, or development]  
-- [Projects involving marketing, data, or web technologies]  
-- [Toolset used or strategies implemented]
+-   Collaborated with operations and quality control teams to streamline authentication
 
----
+    workflows
+
+-   Utilized internal CMS and quality control systems to log verifications, reduce processing time by 15%, and support operational integrity across thousands of daily SKUs
+
+-   Personally processed 1,000+ units weekly, helping protect buyer trust and reduce fraud disputes in collaboration with the customer experience team
+
+------------------------------------------------------------------------
+
+### Safety Coordinator, Amazon
+
+*March 2020- Feb 2022*
+
+-   Enforced company-wide COVID-19 safety protocols, ensuring compliance with CDC guidelines during peak pandemic operations
+
+-   Conducted daily audits and reported site-level adherence to distancing, sanitation, and mask-wearing practices, reducing safety violations
+
+-   Led daily briefings and trained over 100 warehouse associates on evolving safety procedures and policy changes
+
+-   Designed and deployed internal signage, digital dashboards, and compliance trackers to support safety awareness campaigns
+
+-   Utilized Microsoft Excel for data tracking and incident logging, collaborated with HR and Facilities to implement zoned traffic flows and floor-mapping strategies that reduced in-person contact by 40%
+
+------------------------------------------------------------------------
