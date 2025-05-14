@@ -3,10 +3,25 @@
     "listing": "/marketing-analytics.html",
     "items": [
       "/listings/01-campaign-insights-dashboard.html",
+      "/website-proj/listings/05-social-media-engagement.html",
       "/listings/05-social-media-engagement.html",
+      "/website-proj/listings/04-funnel-attribution-model.html",
       "/listings/04-funnel-attribution-model.html",
+      "/website-proj/listings/03-customer-segmentation-clustering.html",
       "/listings/03-customer-segmentation-clustering.html",
-      "/listings/02-seo-benchmarking-analysis.html"
+      "/website-proj/listings/02-seo-benchmarking-analysis.html",
+      "/listings/02-seo-benchmarking-analysis.html",
+      "/website-proj/listings/01-campaign-insights-dashboard.html"
+    ]
+  },
+  {
+    "listing": "/website-proj/marketing-analytics.html",
+    "items": [
+      "/website-proj/listings/05-social-media-engagement.html",
+      "/website-proj/listings/04-funnel-attribution-model.html",
+      "/website-proj/listings/03-customer-segmentation-clustering.html",
+      "/website-proj/listings/02-seo-benchmarking-analysis.html",
+      "/website-proj/listings/01-campaign-insights-dashboard.html"
     ]
   }
 ]
